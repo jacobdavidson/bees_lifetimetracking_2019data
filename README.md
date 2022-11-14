@@ -1,6 +1,6 @@
 # bees_lifetimetracking_2019data
 
-| Day number | Date      | Comb image                                                                                               | Cohort(s) introduced     | Manipulation                           | Notes                                                   |
+| Day number | Date      | <div style="width:200px">Comb image</div>                                                                                               | Cohort(s) introduced     | Manipulation                           | Notes                                                   |
 | ---------- | --------- | -------------------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------- | ------------------------------------------------------- |
 | 0          | 5-Jun-19  | <a href='comb_images/comb_000.png'><img src='comb_images/comb_000.png' align='left' height='100'></a> |                          |                                        |                                                         |
 | 1          | 6-Jun-19  | <a href='comb_images/comb_001.png'><img src='comb_images/comb_001.png' align='left' height='100'></a> |                          |                                        |                                                         |
